@@ -1,0 +1,3949 @@
+Oral communication
+large database
+information retrieval techniques
+histogram
+keywords
+document representation
+oral communication
+indices
+index
+subsets
+database
+indices
+databases
+indices
+robust, mixed-initiative speech dialogue interactions
+dialogue systems
+distributed message-passing infrastructure
+dialogue systems
+software infrastructure
+information extraction (IE) systems
+named entity annotations
+scenario templates
+text collections
+text browser
+prototype system
+information workers'
+pharmaceutical news archive
+qualitative user evaluation
+users
+IE-enhanced text browsers
+Korean-to-English machine translation system CCLINC (Common Coalition Language System at Lincoln Laboratory)
+CCLINC Korean-to-English translation system
+core modules
+language understanding and generation modules
+language neutral meaning representation
+semantic frame
+parsing
+Korean
+verb final language
+overt case markers
+free word order
+arguments
+translation
+word sense disambiguation
+word order generation
+target language
+system development
+porting to new domains
+knowledge-based automated acquisition of grammars
+Korean newspaper articles
+translation output
+original document
+automated evaluation techniques
+human language learners
+output
+machine translation (MT) systems
+evaluation techniques
+human language learning process
+translation process
+machine translation systems
+intelligibility
+MT output
+language learning experiment
+assessors
+native from non-native language essays
+words
+assessors
+machine translation output
+expert human translations
+machine translation outputs
+expert human translation
+machine translation
+word
+Listen-Communicate-Show (LCS)
+human interaction with data sources
+spoken language understanding system
+intelligent mobile agents
+users
+information sources
+LCS-Marine
+LCS-Marine
+supply or information request
+request
+mobile, intelligent agent
+database
+Requestors
+request
+request
+Automatic Speech Recognition technology
+dialog systems
+speech recognition
+dialog systems
+user
+user
+system response
+users
+natural language generation community
+dialog systems
+generation
+dialog systems
+knowledge-based generation systems
+machine learning techniques
+language models (LMs)
+interpolation methods
+log-linear and linear interpolation
+performance
+performance
+oracle
+oracle
+reference word string
+word string
+performance
+word or semantic error rate
+word strings
+word string
+LM
+oracle
+dynamic combiner
+reference
+dynamic language model combination
+performance
+oracle
+neural network
+decision tree
+LMs
+confidence measures
+hypothesis
+LM
+confidence
+spoken dialogue systems
+user satisfaction
+system support
+component performance
+n-gram models
+error-correction rules
+Thai key prediction
+Thai-English language identification
+rule-reduction algorithm
+mutual information
+error-correction rules
+accuracy
+language identification
+key prediction
+Sentence planning
+sentence scoping
+syntactic structure
+elementary speech acts
+sentences
+SPoT
+sentence planner
+SPoT
+feedback
+human judges
+randomized sentence-plan-generator (SPG)
+sentence plans
+text-plan input
+sentence-plan-ranker (SPR)
+output sentence plans
+top-ranked plan
+SPR
+ranking rules
+training data
+SPR
+sentence plan
+rating
+top human-ranked sentence plan
+segment order
+segmentation
+segment contiguity
+retrieval performance
+translation memory system
+bag-of-words and segment order-sensitive string comparison methods
+local segment contiguity models
+N-grams
+indexing
+character bigrams
+retrieval accuracy
+word N-gram models
+bag-of-words methods
+segment order-sensitive methods
+retrieval accuracy
+range concatenation grammar [RCG] formalism
+NLP
+range concatenation languages [RCL]
+polynomial time
+classical grammatical formalisms
+RCGs
+worst-case parsing time complexity
+translation
+RCG
+tree adjoining grammar
+time
+parsing technique
+RCL parsers
+non-deterministic parsing choices
+main parser
+language L
+derivation forest
+RCL parser
+superset
+wide coverage English grammar
+paraphrasing
+interpretation and generation of natural language
+manual or semi-automatic methods
+paraphrases
+unsupervised learning algorithm
+identification of paraphrases
+corpus of multiple English translations
+source text
+phrasal and single word lexical paraphrases
+syntactic paraphrases
+words
+alternative markers
+words
+dialog
+natural language search engines
+queries
+performance
+search engine
+search engine's operational semantics
+operational semantics
+natural language applications
+logical definition
+Minimalist grammars
+Stabler's formalization
+Chomsky's minimalist program
+logical definition
+categorial grammar
+Montague semantics
+parsing-as-deduction
+resource sensitive logic
+learning algorithm
+structured data
+typing-algorithm
+type-unification
+Montague semantics
+natural language generator
+quality
+utterances
+hand-crafted template-based or rule-based approaches
+trainable sentence planner
+spoken dialogue system
+subjective human judgments
+hand-crafted template-based generation component
+rule-based sentence planners
+baseline sentence planners
+trainable sentence planner
+rule-based systems
+baselines
+hand-crafted system
+supervised machine learning experiments
+statistical models
+WH-questions
+models
+shallow linguistic features
+user's informational goals
+predictive performance
+models
+predictive performance
+utterance classification
+manual transcription
+training data
+domain independent acoustic models
+off-the-shelf classifiers
+utterance classification performance
+word-trigram recognition
+manual transcription
+unsupervised training
+phone n-gram model
+domain
+output
+recognition
+model
+phone-string classifier
+classification accuracy
+spoken language system domains
+ensemble methods
+machine learning
+natural language processing
+question answering
+answering agents
+answers
+corpora
+answering agents
+multi-level answer resolution algorithm
+answering agents
+question, passage, and/or answer levels
+answer resolution algorithm
+relative improvement
+baseline system
+questions
+improvement
+average precision metric
+ONTOSCORE
+concepts
+ontology
+speech recognition hypotheses (SRH)
+semantic coherence
+annotation experiment
+human annotators
+speech recognition hypotheses
+annotated data
+German corpus
+SRHs
+baseline
+phrase-based translation model
+decoding algorithm
+phrase-based translation models
+phrase-based models
+word-based models
+language pairs
+heuristic learning
+phrase translations
+word-based alignments
+lexical weighting
+phrase translations
+phrases
+words
+phrases
+high-accuracy word-level alignment models
+syntactically motivated phrases
+generative probabilistic optical character recognition (OCR) model
+noisy channel framework
+generation of true text
+noisy output
+OCR system
+model
+error correction
+post-processing
+output
+black-box OCR systems
+NLP tasks
+model
+finite-state models
+model's
+character and word error rate
+automatic extraction
+translation lexicons
+text
+ambiguity packing and stochastic disambiguation techniques
+Lexical-Functional Grammars (LFG)
+sentence condensation
+linguistic parser/generator
+LFG
+transfer component for parse reduction
+packed parse forests
+maximum-entropy model
+stochastic output selection
+parser evaluation methods
+summarization quality
+sentence condensation systems
+experimental evaluation
+summarization quality
+automatic parse-based evaluation
+manual evaluation
+summarization quality
+grammaticality
+system output
+constraint-based parser/generator
+part-of-speech tagger
+tag contexts
+dependency network representation
+lexical features
+priors
+conditional loglinear models
+unknown word features
+tagger
+accuracy
+Penn Treebank WSJ
+error reduction
+automatically learned tagging result
+training data
+language modeling
+conversational speech
+training data
+text
+web
+style
+topic
+target recognition task
+data
+class-dependent interpolation
+N-grams
+translation quality
+EBMT
+small-sized bilingual corpus
+out-of-domain bilingual corpus
+language model
+in-domain monolingual corpus
+EBMT system
+evaluation measures
+BLEU score
+NIST score
+out-of-domain bilingual corpus
+language model
+unsupervised technique
+morphology
+hubs
+automaton
+hub
+node
+graph
+in-degree
+out-degree
+word-trie
+minimal DFA
+hubs
+hubs
+root
+suffix
+syntax-based constraint
+word alignment
+cohesion constraint
+English phrases
+French sentence
+constraint
+alignment quality
+bootstrapping approach
+Named Entity (NE) tagging
+concept-based seeds
+successive learners
+noun or pronoun seeds
+concept
+NE
+PERSON NE
+bootstrapping procedure
+successive learners
+decision list
+parsing-based NE rules
+Hidden Markov Model
+corpus
+learner
+NE system
+supervised NE performance
+NE types
+phrase-based unigram model
+statistical machine translation
+model parameters
+phrase-based models
+units of translation
+blocks
+phrases
+decoding
+block unigram model
+word-based trigram language model
+training
+blocks
+source interval projections
+word alignment
+block selection criteria
+unigram counts
+phrase length
+Cooperative Model
+natural language understanding
+dialogue system
+Finite State Model (FSM)
+Statistical Learning Model (SLM)
+FSM
+language understanding
+accuracy
+Statistical approach
+Cooperative Model
+TAP-XL Automated Analyst's Assistant
+languages
+human language technology
+JAVELIN system
+planning-based architecture
+language processing modules
+open-domain question answering capability
+free text
+JAVELIN
+questions
+answer candidates
+text corpus
+repository
+data objects
+question answering session
+IE paradigm
+predicate-argument structures
+predicate argument structures
+IE paradigm
+features
+inductive decision tree learning
+predicate-argument structures
+IE results
+Hierarchical Directed Acyclic Graph (HDAG) Kernel
+structured natural language data
+HDAG Kernel
+chunks
+relations
+weighed sum
+attribute sequences
+HDAGs
+question classification
+sentence alignment tasks
+similarity measure
+kernel function
+HDAG Kernel
+kernel functions
+baseline methods
+clustering
+semantic verb classes
+corpus data
+subcategorization frame (SCF) distributions
+Information Bottleneck and nearest neighbour methods
+polysemic verbs
+evaluation scheme
+polysemy
+clusters
+SCF data
+decision tree based approach
+pronoun resolution
+spoken dialogue
+pronouns
+NP- and non-NP-antecedents
+features
+pronoun resolution
+spoken dialogue
+features
+Switchboard dialogues
+Link detection
+Topic Detection and Tracking tasks
+new event detection
+story link detection
+new event detection
+information retrieval task
+precision
+recall
+part of speech tagging
+similarity measures
+stop lists
+discourse understanding process
+spoken dialogue systems
+user utterances
+context
+dialogue
+candidates
+understanding result
+user utterance
+ambiguity
+speech understanding
+understanding result
+user utterance
+candidates
+understanding results
+ambiguity
+dialogue
+discourse understanding accuracy
+ambiguity
+statistical information
+dialogue corpora
+hand-crafted rules
+discourse understanding process
+candidates
+understanding results
+user modeling
+cooperative responses
+spoken dialogue systems
+user's knowledge
+users
+user model
+dimensions
+user models
+skill level
+knowledge level
+target domain
+hastiness
+models
+decision tree learning
+dialogue data
+classification accuracy
+dimensions
+Dialogue strategies
+user modeling
+cooperative responses
+individual users
+novice users
+dialogue duration
+skilled users
+unsupervised learning approach
+non-English (Arabic) stemmer
+stemming model
+statistical machine translation
+English stemmer
+small (10K sentences) parallel corpus
+training resources
+parallel text
+training phase
+Monolingual, unannotated text
+stemmer
+domain
+genre
+Arabic
+language
+affix removal
+resource-frugal approach
+agreement
+Arabic stemmer
+rules
+affix lists
+human annotated text
+unsupervised component
+Task-based evaluation
+Arabic information retrieval
+average precision
+unstemmed text
+stemmer
+Arabic's rich morphology
+word
+morphemes
+pattern
+morpheme
+small manually segmented Arabic corpus
+unsupervised algorithm
+Arabic word segmenter
+large unsegmented Arabic corpus
+trigram language model
+morpheme sequence
+input
+language model
+small manually segmented corpus
+words
+segmentation accuracy
+unsupervised algorithm
+stems
+155 million word unsegmented corpus
+model parameters
+vocabulary
+training corpus
+Arabic word segmentation system
+exact match accuracy
+test corpus
+word tokens
+highly inflected languages
+small manually segmented corpus
+language
+word sense disambiguation (WSD)
+manually sense-tagged data
+supervised learning
+sense-tagged training data
+English-Chinese parallel corpora
+nouns
+SENSEVAL-2 English lexical sample task
+sense-tagged data
+SENSEVAL-2 nouns
+accuracy difference
+manually sense-tagged data
+domain dependence
+WSD programs
+large, semantically annotated corpus resource
+large-scale acquisition of word-semantic information
+domain-independent lexica
+annotation
+semantic roles
+frame semantics paradigm
+annotated data
+vagueness
+ambiguity
+semantic annotation
+verbal and nonverbal means
+grounding
+embodied conversational agents
+signals
+common ground
+human-computer interaction
+eye gaze
+head nods
+attentional focus
+nonverbal behaviors
+dialogue move
+negative feedback
+ECA
+verbal and nonverbal grounding acts
+dialogue state
+CFG filtering techniques
+LTAG
+HPSG
+HPSG
+CFG filter
+LTAG
+information redundancy
+machine translation
+multi-document summarization
+lexical-syntactic forms
+machine translation systems
+redundancy
+machine translations
+redundancy
+noun phrases
+Maximum Entropy Word Aligner
+Arabic-English Machine Translation
+maximum entropy word alignment algorithm
+Arabic-English
+supervised training data
+training material
+machine translation
+supervised and unsupervised methods
+probabilistic model
+alignment
+traditional word alignment techniques
+machine translation tests
+human annotation performance
+Bayesian model
+text summarization
+human judgments
+text
+non Bayesian summarizers
+test data
+Japanese news texts
+Bayesian approach
+summarizer
+non-Bayesian models
+reranking approaches
+conditional log-linear model
+hidden variables
+lexical items
+word clusters
+word senses
+model
+discriminative training criterion
+Training
+decoding
+model
+dynamic programming
+model
+parse reranking
+model
+F-measure improvement
+base parser
+Collins (2000) reranker
+parsing
+parse trees
+phrase-based statistical machine translation method
+non-contiguous phrases
+phrases
+phrases
+word-aligned corpora
+statistical translation model
+phrases
+training method
+maximization
+translation accuracy
+NIST evaluation metric
+Translations
+beam-search decoder
+training data
+computational problems
+probabilistic translation models
+machine translation
+models
+probabilistic context-free grammars
+hardness results
+class NP
+exponential time lower-bound
+question-focused sentence retrieval
+Annotators
+questions
+corpus
+questions
+sentences
+answer
+question
+sentence retrieval problem
+stochastic, graph-based method
+relative importance
+textual units
+generic summarization
+baseline
+similarity
+sentence
+input question
+IDF-weighted word overlap
+TRDR score
+baseline
+automatic evaluation
+machine translation
+document summarization
+POURPRE
+definition questions
+information nugget
+automatic methods for scoring system output
+TREC 2003 and TREC 2004 QA tracks
+rankings
+rankings
+POURPRE
+method for identifying systematic patterns in translation data
+part-of-speech tag sequences
+diagnostic tool
+machine translation systems
+patterns
+machine translation output
+ILIMP
+input
+raw text
+French
+output
+text
+occurrence
+pronoun
+tag
+anaphoric occurrences
+anaphora resolution system
+antecedent
+expletive occurrences
+pronoun
+antecedent
+precision rate
+ILIMP
+ILIMP
+ILIMP
+syntactic analysis system
+evaluation metrics
+Machine Translation (MT) systems
+BLEU
+NIST
+language pairs
+word segmentation problem
+BLEU
+word n-grams
+character level
+BLEU
+character level
+word segmentation problem
+statistical MT systems
+Chinese-to-English SMT model
+word sense disambiguation performance
+WSD evaluation methodology
+Senseval-3 Chinese lexical sample task
+word sense disambiguation (WSD) models
+Senseval series of workshops
+BLEU scores
+statistical machine translation (SMT)
+SMT models
+translation
+source language sentences
+WSD accuracy
+SMT models
+WSD models
+WSD accuracy
+SMT models
+WSD models
+SMT models
+WSD models
+SMT
+WSD models
+natural language processing
+Japanese natural language processing studies
+Japanese NLP
+NLP
+Chinese language
+verb
+dependents
+ambiguity resolution
+right-side dependencies
+dependency parsing
+sentences
+verbs
+shift-reduce dependency parsers
+dependency tree
+right-side dependencies
+two-phase shift-reduce dependency parser
+SVM learning
+left-side dependents
+right-side nominal dependents
+right-side verbal dependents
+shift-reduce dependency parsers
+dependency accuracy
+Statistical machine translation (SMT)
+natural language processing
+SMT
+rule-based translation systems
+translation systems
+language pairs
+domains
+statistical machine translation
+SMT system
+baseline results
+SMT
+STTK
+statistical machine translation tool kit
+translation system
+STTK
+CMU's SMT system
+rule-based and example based machine translation modules
+multi engine machine translation system
+word segmentation system
+word breaking
+OOV identification
+segmentation standards
+segmentation bakeoff
+PK-open
+PKclosed
+AS-open
+AS-closed
+HK-open
+HK-closed
+MSR-open
+MSRclosed
+MSR-open
+MSRclose
+PK-open
+scores
+Parallel wordnets
+languages
+multilingual knowledge processing
+homomorphism
+monolingual wordnets
+lexical semantic relation (LSR) mappings
+conceptual cohesion
+parallel wordnets
+monolingual wordnet
+cross-lingual lexical semantic relations
+inference rules
+Chinese wordnet structure
+English wordnet
+English-Chinese translation relations
+parallel wordnet building
+precision
+LSR prediction
+Taiwan Child Language Corpus
+Southern Min Chinese
+corpus
+Child Language Data Exchange System (CHILDES)
+corpus
+words
+data collection
+transcription
+word segmentation
+part-of-speech annotation
+corpus
+corpus
+English-Chinese bitexts
+subparagraph level
+legal text hierarchy
+bilingual corpus
+special domain
+empirical MT research
+English-Chinese bitexts
+machine translation (MT) evaluation
+sentence-level semantic equivalence classification
+MT evaluation methods
+BLEU
+NIST
+WER
+PER
+classifiers
+semantic equivalence
+entailment
+classification method
+PER
+part of speech information
+word matches
+sentence
+MT evaluation techniques
+paraphrase classification
+entailment
+paraphrase classification accuracy
+deep analysis
+compositional classes
+paraphrases
+class-oriented framework
+paraphrase examples
+sentential paraphrases
+paraphrase class
+automatic candidate generation
+manual judgement
+paraphrase corpus
+cost-efficiency
+exhaustiveness
+reliability
+paraphrase sets
+seed sentences
+reference sets
+objective machine translation evaluation measures
+BLEU
+NIST
+paraphrases
+grammaticality
+equivalence
+meaning
+paraphrases
+meaning equivalence
+entailment
+lexical and syntactical variation
+paraphrases
+paraphrase sets
+reference sets
+MT evaluation
+evaluation method
+latent variable model
+paraphrases
+contexts
+context
+sentence
+latent variable
+model
+topic
+likelihood
+variable
+paraphrase
+sentences
+context
+accuracy
+models
+upper bound
+accuracy
+topic information
+quantifying noun groups
+German
+corpus-based investigations
+grammar
+treebank
+annotation
+treebank
+stochastic parsers
+treebank
+grammars
+treebank
+treebank
+theoretical linguistic investigations
+corpus research
+SILVA
+parsing and extraction tool
+German text corpora
+annotating scheme
+honorifics
+Honorifics
+referential information
+zero pronouns
+machine translation outputs
+honorifics
+predicate
+honorifics
+referents
+predicate
+referents
+predicates
+probabilistic parser
+base parser
+candidate parses
+input sentence
+probabilities
+ranking
+parses
+model
+ranking
+features
+tree
+tree
+features
+features
+derivation
+generative model
+features
+reranking task
+boosting approach to ranking problems
+boosting method
+Wall Street Journal treebank
+log-likelihood under a baseline model
+features
+parse trees
+model
+model
+F-measure
+F-measure error
+parallel sentences
+comparable, non-parallel corpora
+maximum entropy classifier
+pair of sentences
+translations
+parallel data
+non-parallel newspaper corpora
+statistical machine translation system
+MT system
+parallel corpus
+non-parallel corpus
+language pairs
+generative probabilistic model
+parse trees
+PCFG-LA
+model
+PCFG
+non-terminal symbols
+latent variables
+Fine-grained CFG rules
+parsed corpus
+PCFG-LA model
+EM-algorithm
+exact parsing
+PCFG-LA
+Penn WSJ corpus
+automatically trained model
+unlexicalized PCFG parser
+manual feature selection
+local coherence
+entity-based representation of discourse
+Centering Theory
+raw text
+coherence assessment
+ranking learning problem
+discourse representation
+ranking function
+accuracy
+coherence model
+corpus study
+graphic interpretation system
+communicative signals
+shallow processing
+system's
+data structure
+phrase-based statistical machine translation
+retrieval
+phrases
+memory
+decoder implementations
+computational complexity
+average retrieval times
+phrase translations
+suffix array-based data structure
+retrieval time
+orders of magnitude
+translation quality
+statistical machine translation
+syntactic information
+source language
+phrasal translation
+source-language
+dependency parser
+target language
+word segmentation
+unsupervised word alignment component
+parallel corpus
+source dependency parse
+target sentence
+dependency treelet translation pairs
+tree-based ordering model
+decoder
+tree-based models
+SMT models
+phrasal SMT
+parser
+unlexicalized parser
+German
+smoothing
+suffix analysis
+labelled bracket F-score
+NEGRA corpus
+accuracy
+smoothing
+unlexicalized parser
+smoothing
+information extraction techniques
+supervised training data
+hidden Markov models (HMMs)
+generative model
+field structured text
+unsupervised HMM learning
+domains
+unsupervised methods
+accuracies
+unlabeled examples
+supervised methods
+labeled examples
+semi-supervised methods
+labeled data
+word sense disambigation models
+statistical machine translation quality
+Chinese word sense disambiguation model
+translation candidates
+IBM statistical MT system
+word sense disambiguation
+translation quality
+statistical machine translation system
+Error analysis
+statistical MT architectures
+semantic relationships
+entities
+lexical, syntactic and semantic knowledge
+feature-based relation extraction
+SVM
+phrase chunking information
+relation extraction
+full parsing
+full parse trees
+relation extraction
+chunking
+semantic information
+WordNet
+Name List
+feature-based relation extraction
+ACE corpus
+features
+ACE relation subtypes
+tree kernel-based systems
+F-measure
+ACE relation types
+Sentence boundary detection
+speech
+speech recognition output
+hidden Markov model (HMM) and maximum entropy (Maxent) classifiers
+textual and prosodic knowledge sources
+sentence boundaries
+conditional random field (CRF)
+model
+corpora
+human transcriptions
+speech recognition output
+CRF model
+error rate
+HMM and Maxent models
+NIST sentence boundary detection task
+speech
+three-way voting
+classifiers
+model
+knowledge sources
+word alignment
+log-linear models
+knowledge sources
+feature functions
+source language sentence
+target language sentence
+variables
+Log-linear models
+statistical alignment models
+syntactic information
+IBM Model 3 alignment properties
+POS correspondence
+bilingual dictionary coverage
+features
+log-linear models
+IBM translation models
+alignment adaptation approach
+domain-specific (in-domain) word alignment
+alignment adaptation
+out-of-domain corpus
+in-domain word alignment results
+statistical word alignment models
+large-scale out-of-domain corpus
+small-scale in-domain corpus
+models
+domain-specific word alignment
+domain-specific word alignment
+precision
+recall
+relative error rate reduction
+Syntax-based statistical machine translation (MT)
+statistical models
+structured data
+syntax-based statistical machine translation system
+probabilistic synchronous dependency insertion grammar
+Synchronous dependency insertion grammars
+synchronous grammars
+dependency trees
+grammar
+parallel corpora
+graphical model
+machine translation task
+stochastic tree-to-tree transducer
+polynomial time decoding algorithm
+model
+MT system
+NIST
+Bleu automatic MT evaluation software
+baseline system
+IBM models
+translation speed and quality
+training method
+localized phrase-based prediction model
+statistical machine translation (SMT)
+model
+blocks with orientation
+local phrase re-ordering
+maximum likelihood criterion
+log-linear block bigram model
+real-valued features
+language model score
+binary features
+block identities
+block bigram features
+training algorithm
+features
+baseline
+Arabic-English translation task
+semantic role labeling
+classifiers
+label sequence models
+Viterbi decoding
+core argument frame
+dependencies
+arguments
+model
+argument frames
+features
+discriminative log-linear models
+error reduction
+arguments
+core arguments
+classifier
+gold-standard parse trees
+PropBank
+monolingual parallel corpora
+paraphrases
+bilingual parallel corpora
+alignment techniques
+phrase-based statistical machine translation
+paraphrases
+phrase
+paraphrase probability
+paraphrases
+bilingual parallel corpus
+translation probabilities
+contextual information
+paraphrase extraction and ranking methods
+manual word alignments
+paraphrases
+automatic alignments
+adjectival subcategorization frames (SCFs)
+frequency information
+English corpus data
+decision-tree classifier
+SCF types
+grammatical relations (GRs)
+robust statistical parser
+pattern-matching language
+GRs
+frames
+inheritance-based lexica
+SCF types
+precision
+recall rate
+linguistic annotation
+SCFs
+corpus data
+training and test data
+subcategorization acquisition
+Sentiment Classification
+text
+machine learning techniques
+training and test data
+topic
+domain
+training data
+domain
+topic
+Combinatory Categorial Grammar (CCG) lexicon
+Turkish dependency treebank
+Turkish
+agglutinating free word-order language
+language theories
+lexicon
+CCG principles
+treebank
+Penn WSJ
+Czech-English statistical machine translation system
+tree-to-tree translation
+dependency structures
+bilingual resource
+sentence-aligned parallel corpus
+evaluation method
+benchmark system
+dialogue system
+interlocutor
+modular architecture
+understanding
+generation
+information-state model of reference
+semantics
+collaborative problem solving
+method of interactively visualizing and directing the process of translating a sentence
+model of syntax-based statistical machine translation (MT)
+model's
+MT systems
+visualization method
+MT system
+syntax-based decoder
+vocabulary learning
+target corpus
+target vocabulary
+specialized vocabulary
+target vocabulary
+English Wikipedia
+target corpus
+target vocabulary
+Statistical Machine Translation (SMT)
+SMT research community
+SMT algorithms
+computational complexity
+SMT
+computational complexity
+IBM Models 1-2
+models
+polynomial time solution
+hard problems
+polynomial time approximations
+complexity
+automatic and unsupervised word sense induction (WSI)
+one sense per collocation observation
+clustering
+word co-occurrences
+WSI
+one sense per collocation observation
+triplets of words
+two-step clustering process
+sentence co-occurrences
+features
+automatic and unsupervised evaluation method
+word sense disambiguation algorithms
+gold standard
+automatic parameter optimization
+WSI algorithm
+addressee identification
+Bayesian Network and Naive Bayes classifiers
+addressee
+dialogue act
+gaze, utterance and conversational context features
+meeting context
+classifiers' performances
+classifiers
+conversational context
+utterance features
+speaker's gaze information
+classifiers
+meeting context
+evaluation measures
+machine translation
+costs
+movements
+word blocks
+movements
+sentences
+evaluation measure
+block reordering
+edit operation
+measure
+quadratic time
+evaluation measures
+word-dependent substitution costs
+measure
+human judgment
+language pairs
+word dependent substitution costs
+automatic evaluation measures
+human judgment
+segment boundaries
+spoken multiparty dialogue
+top-level topic shifts
+subtopic boundaries
+ASR output
+human transcription
+features
+subtopic boundaries
+subtopic boundaries
+lexical cohesion-based approach
+top-level boundaries
+machine learning approach
+lexical-cohesion and conversational features
+conversational cues
+cue phrases
+overlapping speech
+top-level prediction task
+transcription errors
+ASR output
+models
+lexical-cohesion and conversational features
+Generation
+Referring Expressions
+size
+location
+perspective-taking
+reference
+knowledge
+content determination
+clustering algorithm
+Question Answering (QA) systems
+information need
+need
+MT-based paraphrasing technique
+QA system performance
+MRR
+information extraction
+token classification task
+tagging strategies
+tokens
+tagging strategies
+strategy
+Begin/After tagging
+BIA
+strategies
+corpus exploration tool
+InfoMagnets
+InfoMagnets
+corpus analysis
+text mining
+language
+domains
+Combination methods
+system combination
+unsupervised WSD
+voting- and arbiter-based combination strategies
+unsupervised WSD systems
+combination methods
+senses
+raw text
+SemCor and Senseval-3 data sets
+ensembles
+mathematical formalism
+strings
+trees
+dags
+graphs
+polarization
+saturation
+formalism
+grammar formalisms
+rewriting systems
+dependency grammars
+TAG
+HPSG
+LFG
+redundancy elimination problem
+underspecified semantic representation (USR)
+scope ambiguity
+USR
+readings
+underspecified chart representations
+dominance graphs
+USRs
+large-scale grammars
+corpus
+ambiguity
+runtime
+machine learning techniques
+comma checker
+grammar checker
+Basque
+corpus
+commas
+precision
+recall
+precision
+recall
+commas
+corpus
+corpus
+unsupervised learning approach
+relations
+named entities
+lexical and syntactic features
+contexts
+eigenvectors
+adjacency graph's Laplacian
+submanifold
+high dimensionality space
+cluster number estimation
+eigenvectors
+ACE corpora
+spectral clustering based approach
+clustering methods
+polarity-tagged corpus
+linguistic pattern
+sentences
+opinion
+corpus
+sentences
+similarity
+words
+word vectors
+vector space model
+word vectors
+LSA-based, cooccurrence-based and dictionary-based methods
+similarity
+taxonomic similarity
+associative similarity
+dictionary-based word vectors
+taxonomic similarity
+LSA-based and the cooccurrence-based word vectors
+associative similarity
+independent and relevant event-based extractive mutli-document summarization approaches
+events
+event terms
+event elements
+independent approach
+events
+relevant approach
+PageRank algorithm
+event map
+FERRET
+interactive question-answering (Q/A) system
+Q/A applications
+FERRET
+Q/A
+predictive questioning
+questions
+answers
+users
+user
+scenario
+computational analysis
+move structures
+abstracts
+sentences
+move
+rhetorical functions
+abstracts
+Web
+language model
+abstract moves
+prototype concordancer
+CARE
+move-tagged abstracts
+digital learning
+Web-based computer-assisted academic writing
+LOGON MT demonstrator
+general-purpose NLP components
+machine translation pipeline
+output quality
+demonstrator
+symbolic resources
+stochastic processes
+representational format
+meaning
+verbs
+subpredicates
+subpredicates
+inferences
+listener
+verb
+sentence
+meaning structure
+sentence
+verb
+computational theory
+human plausible reasoning
+logic
+theory
+content-independent formalism
+logic
+theory
+information
+memory
+certainty
+conclusions
+theory
+dimensionalized space
+inference types
+certainty conditions
+meta-inference types
+inference
+knowledge
+knowledge
+inference types
+memory
+inference types
+information
+memory
+inference types
+inference
+semantic networks
+Path-based inference
+arc
+path of arcs
+nodes
+path
+nodes
+Path-based inference rules
+binary relational calculus notation
+Node-based inference
+nodes
+pattern
+node structures
+Node-based inference rules
+semantic network
+predicate calculus notation
+Path-based inference
+node-based inference
+path-based inference rules
+extensional equivalence
+intensional concepts
+inheritance
+hierarchies
+FROFF
+texts
+fonts
+character size
+character
+line length
+character
+Augmented Transition Network
+procedural dialog model
+model
+dialog schemata
+empirical conversation analysis
+verbal interaction
+dialog schemata
+verbal interaction
+task-oriented and goal-directed dialogs
+ATN
+verbal interactions
+task-oriented dialogs
+Interpreting metaphors
+human understanding
+natural language
+metaphors
+generalized metaphor mappings
+generalized metaphor
+recognition network
+basic mapping
+transfer mappings
+implicit intention component
+metaphor interpretation
+recognition task
+language learning
+natural language interfaces
+literal meaning
+decoding
+natural language interfaces
+non-literal aspects of communication
+robust communication procedures
+human performance
+non-literal aspects of communication
+human communication needs
+interfaces
+natural language interfaces
+natural language
+words
+fragments
+computer system
+natural language input
+parsing flexibilities
+FlexP
+bottom-up pattern-matching parser
+flexibilities
+restricted natural language input
+limited-domain computer system
+natural language interpretation
+semantic domain models
+fail-soft recovery heuristics
+control structures
+single-strategy parsers
+redundancy
+task-specific domain knowledge
+general linguistic knowledge
+grammatical and ungrammatical input
+parsing algorithm
+parsing strategies
+case-frame instantiation
+parsing strategies
+knowledge
+conjunctions
+fragmentary input
+ungrammatical structures
+grammatically correct input
+heuristics
+ungrammatical input
+parser
+input
+grammar
+input
+parser
+deviant input
+ambiguity
+parser
+flexible parsing
+parsing techniques
+construction
+ambiguity representations
+ambiguity
+construction
+language development
+language definition
+task domain
+uniform grammar formalism
+testing
+language definition
+left corner parsing algorithm
+context-free grammars
+parser
+natural language interface
+natural language question answering system
+Chat-80
+Chat-80
+Prolog
+programming language
+logic
+logic-based grammar formalism
+extraposition grammars
+Chat-80
+Prolog subset of logic
+logical expression
+planning algorithm
+Prolog
+query optimisation
+relational database
+Prolog form
+text-understanding systems
+input text
+newspaper stories
+natural language texts
+conversation transcripts
+texts
+words
+words
+syntactic construction
+expectations
+world knowledge
+syntactic and semantic expectations
+context
+word-senses
+words
+meanings
+ambiguity
+ellipsis
+referents
+anaphora
+texts
+NOMAD
+texts
+domain
+interpretation
+conceptual operations
+natural language (NL)
+Structured Inheritance Network (SI-Nets) paradigm
+operations
+functions
+formal language
+operations
+SI-Nets
+operations
+SI-Nets
+epistemological objects
+conceptual system
+NL
+KL-ONE
+epistemological level
+KL-Conc
+conceptual level
+KL-Conc
+SI-Nets
+system which understands and conceptualizes scenes descriptions in natural language
+syntactic analyzer
+Procedural Systemic Grammar
+semantic analyzer
+Conceptual Dependency Theory
+dictionary
+GPSG grammatical formalism
+non-terminals
+category labels
+schematic variables
+grammar
+crossed serial dependencies
+Dutch subordinate clauses
+constructions
+conjunction
+parsing method
+GPSG
+Metagrammatical formalisms
+context-free phrase structure rules and metarules (MPS grammars)
+generalizations
+syntax
+natural languages
+Unconstrained MPS grammars
+computational tractability
+explanatory adequacy
+metagrammatical formalisms
+parsing
+deduction
+chart parsing
+parsing
+grammar formalisms
+unification
+Earley Deduction proof procedure for definite clauses
+grammars
+natural language system
+ungrammatical input
+computer aided second language learning
+syntax
+semantics
+machine translation
+English-Japanese machine translation
+Heuristic Parsing Model (HPM)
+Syntactic Role System
+Japanese-English translation
+Conceptual Dependency Diagram (CDD)
+Augmented Case Marker System
+Semantic Role System
+Japanese sentence structure
+English sentence structure
+machine translation
+ambiguities
+restricted-domain parsing
+structure
+surface representation
+domain entities
+semantic grammar
+limited domain semantics
+fragmentary recognition
+parsing strategies
+robust recognition
+extra-grammatical input
+language definition
+entity-oriented language definition
+control structure
+entity-oriented parser
+parsing strategies
+control structure
+parses
+parser
+control structure
+parsing strategies
+disposition
+proposition
+disposition
+propositions
+disposition
+proposition
+implicit fuzzy quantifiers
+fuzzy quantifier
+proposition
+disposition
+proposition
+explicitation
+restoration
+Explicitation
+meaning
+proposition
+test-score semantics
+semantics
+meaning
+proposition
+procedure
+elastic constraints
+reasoning
+dispositions
+fuzzy syllogism
+Syllogistic reasoning with dispositions
+commonsense reasoning
+management of uncertainty
+expert systems
+typicality
+human cognition
+default reasoning
+Paul
+computer text generation system
+cohesive text
+lexical substitutions
+pronominalization
+superordinate substitution
+definite noun phrase reiteration
+strength of antecedence recovery
+lexical substitutions
+strength of potential antecedence
+text
+substitutions
+Systemic grammar
+AI text generation work
+systemic text generation
+AI problem solving techniques
+systemic grammar
+systemic grammar
+problem solving
+text generation
+linguistic theory
+communicative context
+dialogue interaction
+automata
+dialogue
+environment
+communicative competence
+propositions
+states
+automata
+contracts
+human-to-human relationships
+roles
+topics
+contract
+dialogue system
+constituent
+discontinuous constituents
+non-configurational languages
+discontinuous constituents
+definite clause grammars
+grammars
+proof procedure
+parser
+non-configurational languages
+restricted domain parser
+Plume
+Plume's
+parsing
+semantic caseframe instantiation
+efficiency
+grammatical input
+robustness
+ungrammatical input
+Plume
+declarative and imperative utterances
+passives
+relative clauses
+interrogatives
+syntactic coverage
+Plume
+Plume
+passives
+relative clauses
+interrogatives
+Intersentential elliptical utterances
+information-seeking dialogues
+utterances
+speaker' s
+discourse goal
+fragment
+pragmatic information
+discourse content
+conversational goals
+representations
+utterance
+Determiners
+meaning
+utterance
+meaning
+sentence
+determiners
+ambiguity
+determiners
+interpretation
+meaning
+RAREAS
+natural sublanguages
+stereotyped text structure
+RAREAS
+linguistic and non-linguistic knowledge
+temporal adverbs
+bilingual or multi-lingual texts
+error correction
+ill-formed input
+dialogue patterns
+patterns
+inputs
+Error correction
+parsing
+expected meanings
+input
+sentence
+dialogue acquisition and tracking algorithm
+voice interactive system
+error correction methodology
+dialogue
+discourse structure
+purpose
+processing
+discourse
+discourse structure
+utterances
+linguistic structure
+purposes
+intentional structure
+attention
+attentional state
+linguistic structure
+segments
+discourse
+utterances
+intentional structure
+discourse-relevant purposes
+linguistic segments
+attentional state
+attention
+participants
+discourse
+attentional state
+discourse
+discourse phenomena
+cue phrases
+referring expressions
+interruptions
+attention
+intention
+utterances
+discourses
+discourse
+cue phrases
+referring expressions
+interruptions
+processing
+utterances
+discourse
+Discourse processing
+utterances
+discourse
+segments
+intentions
+discourse
+intentions
+discourse
+attentional state
+recognition tasks
+information
+discourse
+participants' knowledge
+domain
+human-machine interactions
+natural language environment
+speaker
+listener
+listener
+speaker's utterance
+speaker
+listener
+reference failures
+speaker's intention
+miscommunication
+communication
+miscommunications
+miscommunication
+reference problems
+failures of reference
+speaker
+utterance
+extensional reference
+grammatical formalisms
+Tree Adjoining Grammars
+Head Grammars
+formalisms
+linguistic expressiveness
+formalisms
+Unification-based grammar formalisms
+structures
+features
+linguistic objects
+computational algorithms
+unification of feature structures
+feature structures
+model
+feature structures
+logical formulas
+directed graphs
+graphs
+transition graphs
+deterministic finite automaton
+semantics
+feature structures
+disjunctions
+path values
+disjunctions
+logical model
+denotational semantics
+logical model
+calculus of equivalences
+formulas
+Unification
+model
+computational complexity
+unification
+consistency problem
+formulas
+complexity
+disjunctive values
+disjunctive normal form
+grammatical formalisms
+context-free phrase-structure grammar
+LFG
+PATR-II
+formalisms
+chart-parsing framework
+formalisms
+control strategy
+processor
+rule-invocation strategy
+processing efficiency
+rules
+rule-invocation strategies
+context-free chart parsing
+verb forms
+information
+event
+sentence
+present
+past
+future
+deictic information
+event
+sentence
+aspectual information
+verb form meanings
+habituality
+model-theoretic semantics
+English
+coordinations
+strictly syntactic cross-serial agreement
+agreement
+number
+nouns
+reflexive pronouns
+grammatical number
+English
+grammatical gender
+languages
+French
+formal proof
+Interchange Lemma
+English
+grammatical sentences
+coordinate phrases
+conjuncts
+constructions
+conjuncts
+scope
+arguments
+dictionary word sense definitions
+phrasal patterns
+definitions
+Longman Dictionary of Contemporary English
+dictionary
+restricted vocabulary
+word sense definitions
+classification
+word senses
+senses
+words
+restricted vocabulary
+phrasal analysis rules
+patterns
+patterns
+definitions
+analysis mechanism
+robustness problems
+natural language processing systems
+lexicon
+knowledge
+phrasal constructions
+centering approach
+attentional structure
+discourse
+discourse context
+pronouns
+attention
+entities
+discourse
+intersentential transitional states
+continuing
+retaining
+shifting
+states
+multiple ambiguous pronouns
+HPSG natural language system
+database query application
+multimedia articulation of answers
+natural language interface
+database query applications
+Multimedia answers
+sentences
+text or text-to-speech form
+Deictic reference
+discourse
+interface
+pronominal anaphora resolution module
+Lucy
+English understanding system
+module
+anaphora resolution
+architecture
+modules
+candidate antecedents
+Unification Categorial Grammar (UCG)
+Isomorphic Grammars
+Machine Translation
+Isomorphic Grammars approach
+MT
+grammars
+Source and Target languages
+SL and TL expressions
+translation relation
+isomorphic derivations
+knowledge
+translation equivalence
+expressions
+semantic questions
+Semantic and other information
+constraints
+translation relation
+textual representation
+MT system design
+monolingual UCG
+demonstrative expressions
+English
+discourse processing algorithms
+demonstrative forms
+anaphoric expressions
+natural language generation system
+Category Cooccurrence Restrictions (CCRs)
+parsing algorithms
+CCRs
+Boolean conditions
+cooccurrence
+local trees
+syntax formalisms
+CCRs
+syntactic descriptions
+context free languages
+CCR formalism
+parser
+logical well-formedness conditions
+trees
+natural language presuppositions
+inferential theory for natural language presuppositions
+sentences
+computational model
+discourse task
+model
+APT
+organizational and discourse strategies
+corpus
+Chart parsing
+sentence
+chart
+islands
+sentence
+predictions
+sentence
+islands
+context
+heuristics
+Interactive Machine Translation
+document
+ambiguity
+linguistic theory
+erroneous or ambiguous sentence
+analysis step of the translation process
+disambiguation scheme
+paraphrasing
+parser's
+output
+ambiguous sentences
+language acquisition
+learning methodology
+linguistic representation
+language processing systems
+learning
+linguistic representation
+Dynamic Hierarchical Phrasal Lexicon (DHPL)
+language acquisition
+language learning model
+RINA
+lexical hierarchy
+context
+linguistic concepts
+training examples
+hierarchy
+lexical hierarchy
+linguistic concepts
+hypothesis
+lexical gap
+natural language system
+computational lexicon
+information
+lexicon
+information
+information
+COMPLEX
+computational lexicon
+repository
+lexical information
+Natural Language Processing (NLP) systems
+information
+machine-readable dictionaries (MRD's)
+broad coverage lexicon
+intelligent interactive systems
+system users
+user modeling
+user model
+information
+user model
+user
+User models
+user model
+user modeling
+user modeling component
+interaction requirements
+user modeling
+user modeling systems
+French tenses
+Discourse Representation Theory
+theory of tenses
+operators
+meaning
+tenses
+tenses
+meaning
+events
+sentence
+event structure
+relevant times
+temporal adverbials
+sentence
+reference times
+temporal perspective times
+speech time
+location time
+anchors
+event
+relevant times
+temporal coordinates
+tenses
+resolution component
+syntactic analysis
+Natural Language systems
+data retrieval
+validity
+Wizard of Oz technique
+task dialogues
+Natural Language system
+operators
+database access
+complex contextual reference
+reference
+information source
+Natural Language systems
+phonetically-based spoken language understanding system
+SUMMIT
+heuristic rules
+knowledge engineering
+speech knowledge
+well-defined mathematical tools
+features
+decision strategies
+speech data
+elementary structure
+lexical head
+extended domains of locality
+context-free grammar
+constraints
+constraints
+elementary structure
+elementary structure
+'grammar'
+lexicon
+lexical item
+head
+grammar rules
+'rules'
+grammar
+'lexicalized' grammar
+extended domain of locality
+TAGs
+parsing strategy
+'lexicalized' grammars
+parser
+elementary structures
+lexical items
+input sentence
+sentence
+Earley-type parser
+TAGs
+two steps parsing strategy
+unification formalisms
+CFG skeleton
+TAG skeleton
+Earley-type parser
+TAGs
+lexicons
+English
+lexicons
+French
+lexicons
+parser
+idioms
+lexicalized TAGs
+syntactic structures
+entry
+parsing strategy
+Spoken Language Systems (SLS)
+Comparator
+specifications
+answer expressions
+Common Answer Specification
+CAS
+Comparator
+SLS
+canonical answer
+Common Answer Specification
+syntax
+answer expressions
+test corpora
+Comparator
+CAS
+domains
+Comparator software
+CAS approach
+Spoken Language Systems
+continuous speech recognition
+natural language processing
+specification
+interface
+continuous speech recognizer (CSR)
+natural language processor (NLP)
+spoken language system
+stack controller
+search control
+specification
+Top-N mode
+postprocessing
+specification
+NLP evaluation testing
+CSR
+NLP
+testing environments
+languages
+reduplication
+context-free languages
+pushdown automaton
+reduplication
+stack
+languages
+context-free languages
+indexed languages
+reduplications
+natural languages
+Conversationally relevant descriptions
+definite descriptions
+referent
+discourse
+descriptions
+assertions
+conversational implicatures
+implicatures
+possible world semantics
+non-assertive illocutionary acts
+indefinite descriptions
+bidirectional grammar generation system
+feature structure-directed generation
+dialogue translation system
+typed feature structures
+top-down derivation
+generation system
+disjunctive feature structures
+derivation tree
+grammar
+generator
+document oriented preference sets(DoPS)
+disambiguation
+dependency structure
+sentences
+DoPS system
+preference knowledge
+Sentence ambiguities
+domain targeted preference knowledge
+knowledgebases
+dependency structures
+Japanese patent claim sentences
+Korean phonological knowledge base system
+unification-based grammar formalism
+Korean Phonology Structure Grammar (KPSG)
+KPSG
+computational phonological system
+speech recognition and synthesis system
+generative phonological approach
+tree-adjoining grammars (TAG)
+TAGs
+syntax
+semantic interpretation
+automatic translation
+natural language
+TAGs
+synchronous TAGs
+languages
+formalism's
+expressions
+natural languages
+semantics
+logical form language
+natural language
+TAGs
+syntax
+synchronous TAGs
+sentence analysis
+defeasible reasoning
+argumentation system
+defeasible reasoning
+arguments
+defeat rules
+defeasibility
+Manual acquisition
+semantic constraints
+broad domains
+co-occurrence patterns
+large corpus
+semantic constraints
+anaphora references
+syntactic ambiguities
+output
+linguistic tools
+references
+pronoun
+corpus
+cooccurrence statistics
+semantic constraints
+disambiguation tool
+Spelling-checkers
+text processing software
+dictionaries
+word forms
+words
+languages
+inflection
+English
+highly inflective languages
+Czech
+Russian
+Slovak
+Slavonic languages
+inflection
+spelling-checkers
+languages
+spelling-checkers
+English
+dictionary
+word forms
+Czech
+word classification
+Spoken Language System
+N-Best sentence hypotheses
+grammar coverage problems
+fully-connected first-order statistical class grammar
+speech-search algorithm
+natural language system
+large vocabulary continuous speech recognition
+speaker-independent (SI) training
+hidden Markov models (HMM)
+speech
+speakers
+speakers
+training speakers
+models
+pooling
+speech data
+speakers
+training
+training speakers
+SI recognition
+word error rate
+grammar
+test set
+DARPA Resource Management corpus
+test suite
+training speakers
+speaker adaptation (SA)
+SI corpus
+speech
+new (target) speaker
+probabilistic spectral mapping
+training (reference) speaker
+target speaker
+reference model
+target speaker
+utterances
+target speaker
+adaptation
+error rate
+dictionary
+lexicologists
+dictionary
+linguistic theory
+lexicons
+grammars
+natural language processing
+linguistic databases
+coherence rules
+lexical entries
+interface
+free indexation
+referential properties
+noun phrases
+principle-and-parameters language framework
+combinatorics
+free indexation
+indexings
+exponential time
+free indexation algorithm
+LR-parsers
+correctness proof
+generalization
+recursive descent parser
+non-LR grammars
+time-complexity
+parser
+functions
+parser
+memo-functions
+functions
+Memo-functions
+representation
+parse forest
+LR(0) grammars
+recursive ascent parsers
+Extended CF grammars
+grammars
+regular expressions
+LR-parser
+normal CF grammars
+grammatical processing
+uniform processing
+knowledge sources
+parsing
+generation
+parametrized deduction process
+natural language processing
+Unification
+relations
+feature structures
+declarative formalism
+mappings
+feature structure
+Lincoln CSR system
+semiphone modeling
+duration model
+error rate
+triphone and semiphone systems
+training strategy
+rapid adaptation technique
+recognizer
+bigram back-off language models
+RM task
+ATIS CSR task
+development tests
+Evaluation test results
+RM and ATIS CSR tasks
+tagged text corpus
+subcategorization frames
+verb
+occurrences
+verb
+training corpus
+False positive rates
+subcategorization frames
+subcategorization dictionary
+NLP community
+dictionaries
+corpora
+sense resolution
+WordNet
+lexical database
+semantic relations
+synonymy
+antonymy
+hyponymy
+meronymy
+causal and troponymic entailment
+word senses
+WordNet
+semantically related words
+sense resolution
+text processing
+word
+senses
+words
+meaning
+alternative senses
+polysemous word
+related words
+context
+polysemous word
+large textual corpus
+sense
+corpus
+context
+polysemous word
+key
+large corpus
+words
+context
+WordNet
+semantic distance
+words
+alternative senses
+polysemous word
+sense
+meaning
+words
+context
+information retrieval
+mechanical translation
+intelligent tutoring systems
+context-sensitive, phrase structure grammar
+best-path, bottom-up, deterministic parser
+grammar
+English news stories
+parsing
+CSG
+phrase structure grammar
+news story text
+Languages
+concepts
+real-world entities
+words
+grammatical constructs
+translation
+meaning
+source language text
+target language
+translation framework
+Situation Theory
+information lattice
+representation scheme
+utterances
+contexts
+mismatch resolution scheme
+information flow
+translation
+English
+Japanese
+natural language processing
+interpretations
+TACITUS
+MUC-3 evaluation
+syntactic and pragmatic analysis
+robustness
+syntactic analysis
+agenda-based scheduling parser
+recovery technique
+parses
+terminal substring parsing
+pragmatics processing
+abductive inference
+interpretation
+world knowledge
+chart-based phrase structure parsing
+natural language
+information
+unrestricted texts
+words
+text
+parser
+algorithmic efficiency
+search space
+edge
+chart
+edges
+edges
+spanning edges
+edges
+constituent
+phrase boundary heuristics
+function words
+heuristic rules
+phrases
+unknown words
+search space
+syntactic categories
+terminal and non-terminal edges
+ambiguity
+edges
+edges
+semantic interpretation
+discourse segments
+discourse segmentation
+abduction
+temporal relations
+segments
+temporal anaphora resolution
+discrimination and robustness oriented adaptive learning procedure
+syntactic ambiguity resolution
+training data
+approximation error
+language model
+statistical approaches
+ambiguities
+maximum likelihood method
+parameters
+accuracy rate
+training corpus
+separation margin
+candidate
+accuracy rate
+syntactic disambiguation
+Graph unification
+unification-based grammar parsing
+unification algorithms
+subgraphs
+structure-sharing
+overheads
+structure-sharing
+graphs
+dependency pointers
+cyclic structures
+transfer phase
+machine translation (MT) systems
+analysis
+generation
+lexical rules
+case-based reasoning
+machine translation
+translation examples
+MT
+transfer system
+Similarity-driven Transfer System (SimTran)
+case-based MT (CBMT)
+speech understanding
+generalized LR parsing
+Parsing
+parser
+non-terminal symbol
+parse record
+utterance
+unknown words
+unknown words
+dictionary
+pilot system
+Word Identification
+Chinese Natural Language Processing
+sublanguage
+unknown words
+personal names
+title-driven name recognition
+adaptive dynamic word formation
+corpora
+spatial descriptions
+Japanese
+scenic descriptions
+SPRINT
+natural language texts
+qualitative spatial constraints
+numerical constraints
+spatial attributes
+entities
+spatial concepts
+maximally plausible interpretation
+information
+constraints
+interpretation
+spoken language corpus
+ATIS (Air Travel Information System) domain
+MADCOW (Multi-site ATIS Data COllection Working group)
+multi-site data collection paradigm
+MADCOW
+utterances
+spontaneous speech
+multi-site common evaluation of speech, natural language and spoken language
+speech processing
+Human-Machine Communication
+Natural Language Processing
+Non Verbal and Multimodal Communication
+MIT ATIS system
+SUMMIT recognizer
+context-dependent phonetic modelling
+bigram language model
+probabilistic LR parser
+lexicon
+training set
+speech recognition word and sentence error rates
+test set
+weighted error
+spoken language system
+test set
+benchmark evaluation
+Paramax spoken language understanding system
+non-monotonic reasoning
+implicit reference resolution
+database query paraphrase
+ATIS benchmark tests
+standard evaluation metric
+n-best speech/language integration architecture
+OCR accuracy
+generative probabilistic model
+natural language
+HBG
+linguistic information
+ambiguity
+HBG
+lexical, syntactic, semantic, and structural information
+parse tree
+disambiguation process
+corpus
+sentences
+Treebank
+decision tree building
+parse tree
+parse
+sentence
+linguistic introspection
+parse
+robust probabilistic parsing models
+P-CFG
+HBG model
+P-CFG
+parsing accuracy rate
+maximum a posteriori estimation
+continuous density hidden Markov models (CDHMM)
+MLE reestimation algorithms
+forward-backward algorithm
+segmental k-means algorithm
+reestimation formulas
+HMM
+Gaussian mixture observation densities
+Bayesian learning
+speech recognition applications
+parameter smoothing
+speaker adaptation
+speaker group modeling
+corrective training
+MAP estimation approach
+polysemous words
+sentence
+meaning
+sense
+context of use
+word-sense disambiguation systems
+Canadian Hansards
+Roget's Thesaurus
+Grolier's Encyclopedia
+discourse effect
+polysemous word
+sentence
+discourse
+sense
+sense
+discourse
+constraint
+word-sense disambiguation algorithm
+disambiguation algorithms
+discourse constraint
+MIT ATIS (Air Travel Information Service) system
+full linguistic analysis
+robust parsing capability
+full linguistic analysis component
+Robust parsing
+full analysis
+parsing
+phrases
+clauses
+semantic frame
+meaning
+sentence
+robust parsing mechanism
+sentences
+October '91 dry-run test set
+robust parser
+sentences
+grammar
+February '92 test sentences
+evaluation methodology
+CSR (Connected Speech Recognition) corpus
+DARPA speech recognition technology development initiative
+CSR
+corpus
+Resource Management (RM) corpus
+DARPA speech recognition technology development
+CSR corpus
+vocabulary
+grammar
+spontaneous speech
+CSR corpus
+CSR pilot corpus
+CSR corpus
+Language understanding work
+general-purpose language understanding technology
+spoken language understanding
+text understanding
+document processing
+language understanding
+speech recognition
+knowledge-based information retrieval
+image understanding
+modal language LT
+constraints
+trees
+constraints
+trees
+feature structures
+languages
+grammatical frameworks
+GPSG
+modal languages
+layered modal languages
+constraint formalisms
+Semantic theories
+natural language
+meanings
+utterances
+meanings
+lexical items
+rules
+meaning
+meanings
+function composition
+constituent structure trees
+semantic composition
+functional structure
+LFG
+syntactic information
+derivations
+meaning
+meanings
+function composition
+meanings
+reasoning with constraints
+information
+functional structure
+linear logic
+meanings
+modification
+completeness
+coherence
+computational system
+discourses
+simple sentences
+temporal constructions
+time adverbials
+progressive aspect
+aspectual classes
+grammar
+readings
+words
+constituent parts
+ambiguity
+input word
+ambiguity
+MORphological PArser MORPA
+probabilistic context-free grammar (PCFG)
+context-free morphological grammar
+ungrammatical segmentations
+probability-based scoring function
+likelihood
+parse
+plausibility
+Test performance data
+PCFG
+morphological parsing
+MORPA
+parser
+text-to-speech conversion system
+ellipsis resolution
+discourse copying algorithm
+identity-of-relations analyses
+full NPs
+referential elements
+role linking
+predictions
+ellipsis
+discourse copying phenomena
+morphological component
+derived words
+extended two-level morphology
+feature-based word grammar
+hierarchical lexicon
+Polymorphemic stems
+lexicon
+redundancy
+lexicon
+derived words
+words
+Common Lisp
+German derivation
+speech and text image processing work
+recognition technology
+document-oriented applications
+text processors
+audio and scanned image data
+speech and text-image recognition
+signal content
+text-image editor
+wordspotter
+voice editing and indexing
+decoding framework
+scanned-document content retrieval
+signal-based document processing functionality
+unification-based parser
+relational grammars
+stratified feature grammar (SFG) framework
+Kasper-Rounds logic
+relational grammar analyses
+SFG
+relational grammars
+head-driven chart parser
+lexicalized SFG
+basic parsing operation
+feature-structure unification
+label unification
+stratified features
+SFG
+English sentences
+coordinate conjunctions
+words
+Syntactic analysis
+English coordinate sentences
+machine translation (MT) systems
+candidates
+syntactic structure
+coordinate conjunction
+constituents
+conjunction
+structures
+MT systems
+grammars
+rules
+English coordinate structure analysis model
+top-down scope information
+syntactic structure
+patterns
+parallelism
+model
+balance matching operation
+feature sets
+analysis cost
+word disambiguation
+interpretation
+ellipses
+robust analysis
+model
+English-Japanese MT system
+accuracy
+NLP techniques
+document classification
+term weighting statistical assignment paradigm
+NLP techniques
+IR
+linguistic annotation
+corpora
+statistical POS tagger
+unsupervised structure finding methods
+noun group
+verb group
+annotation
+pre-tagged corpus
+linguistically sophisticated representation
+documents
+word set based representation
+document descriptors (keywords)
+words
+descriptors
+phrases
+weighted sum
+word set representation
+high-precision rules
+precision
+rules
+statistical models
+linguistically sophisticated representations
+statistically fitted rule-based model
+sophisticated representations
+statistical systems
+sophisticated representations
+documents
+linguistically sophisticated representations
+document classification
+associative processors (APs)
+real-time spoken language translation
+Spoken language translation
+translation
+TDMT (Transfer-Driven Machine Translation)
+sentence
+examples
+structural disambiguation
+target word selection
+TDMT
+example-retrieval (ER)
+examples
+input expression
+ER
+expressions
+frequent word
+APs
+ER
+APs
+scalability
+vocabulary size
+extrapolation
+TDMT
+APs
+spoken language translation
+Japanese texts
+homophone errors
+KANA-KANJI conversion
+text
+Japanese revision support systems
+homophone errors
+Japanese homophone errors
+compound nouns
+Japanese homophone errors
+compound nouns
+candidates
+candidates
+compound noun component
+semantic categories
+words
+homophone
+compound noun
+semantic set
+homophone
+candidates
+homophone errors
+bilingual texts
+length-based or translation-based criterion
+part-of-speech-based criterion
+source texts
+target texts
+concepts
+entities
+events
+Simulated annealing approach
+alignment algorithm
+Chinese-English texts
+language families
+optical character recognition
+continuous speech recognition
+natural language
+error characters
+characters
+Japanese bunsetsu
+English word
+m-th order Markov chain model
+Japanese kanji-kana characters
+English alphabets
+Markov probability
+syllables
+kanji-kana characters
+Japanese bunsetsu
+English words
+unification framework
+typed feature structures
+lexical entries
+translation equivalents
+TGE
+semantic domains
+lexical cross-relations
+English
+Spanish
+grammar model
+concurrent, object-oriented natural language parsing
+grammatical knowledge
+valency
+dependency
+inheritance mechanisms
+lexical generalizations
+concurrent computation model
+actor paradigm
+message passing protocols
+dependency relations
+ambiguity handling
+inference method
+Horn logic program
+chart Parsing
+partial instantiation
+clauses
+arcs
+chart
+Chart-like parsing
+semantic-head-driven generation
+parsimonious instantiation scheme
+ambiguity packing
+parsing complexity
+chart-based algorithms
+broad-coverage, principle-based parser
+English
+parser
+lexicon
+entries
+extraction and conversion rules
+entries
+machine readable dictionaries
+behavioral specification
+object-oriented grammar model
+model
+full lexicalization
+head-orientation
+valency constraints
+dependency relations
+inheritance
+non-redundant lexicon specification
+concurrency of computation
+computation model
+actor paradigm
+concurrency
+asynchronous message passing
+actors
+lexically distributed grammar
+parser
+event type networks
+event networks
+LHIP
+incremental grammar development
+DCG formalism
+robust island-based parsing method
+user-defined performance thresholds
+non-constituent coordination
+computational systems
+coordination
+parsing strategies
+SYSCONJ system
+ATNs
+coverage
+processing
+processing accounts
+Dynamic Grammars
+mixture language model
+long distance constraints
+sentence
+paragraph
+model
+m-component mixture
+trigram models
+models
+vocabulary
+Wall Street Journal text corpus
+BU recognition system
+recognition accuracy
+mixture trigram models
+trigram model
+speech repairs
+part-of-speech tagger
+tagger
+category transitions
+speech repairs
+transition
+repair
+contextual clues
+editing terms
+word fragments
+word matchings
+transition probabilities
+documents
+document understanding
+image understanding
+text understanding
+document understanding technology
+IDUS (Intelligent Document Understanding System)
+text retrieval application
+automatic generation
+IDUS development
+image and text understanding
+part-of-speech tagging
+statistical and constraint-based disambiguation
+French
+test language
+constraint system
+statistical model
+accuracy
+statistical method
+taggers
+English
+constraint-based tagger
+rule development
+sentence-level and text-level anaphora
+dependency-based grammar model
+anaphora resolution
+sentence boundaries
+GB's binding theory
+text-level anaphora
+Grosz-Sidner-style focus model
+temporal anaphora
+sentences
+quantification
+events
+Discourse Representation Theory
+quantified sentences
+temporal connective
+truth-conditions
+temporal connective
+subordinate clause
+proportion problem
+Generalized Quantifier approach
+reference time
+DRT
+additional temporal anaphora phenomena
+quantified sentences
+compilation algorithm
+HPSG
+lexicalized feature-based TAG
+HPSG
+phrase structures
+TAG
+lexicalized structures
+projection
+structures
+lexicon
+maximal projections
+auxiliary trees
+foot nodes
+Corpus-based sense disambiguation methods
+statistical NLP approaches
+data sparseness
+dictionary definitions
+definition-based conceptual co-occurrence data
+Brown corpus
+sense disambiguation system
+average accuracy
+human performance
+contextual information
+corpus-based study
+antonymous adjectives
+automatically collected data
+accuracy
+applicability
+statistical analysis
+significance
+chance
+text frequency
+generic statistical learning methods
+performance
+complex learning method
+improvement
+Large-scale natural language generation
+knowledge
+robust generator
+knowledge
+incomplete or inaccurate inputs
+hybrid generator
+symbolic knowledge
+statistical methods
+hybrid generation model
+generators
+portability
+knowledge
+information
+technical domains
+general algorithm
+coherent sentences
+corpus based approaches
+knowledge
+feature
+corpus
+text 'domain'
+domain dependence
+parsing
+structure distributions
+domains
+domain specific structures
+Parsing experiment
+domain dependent grammars
+Brown corpus
+domain dependence
+idiosyncrasy
+syntactic structure
+parsing results
+accuracy
+grammar
+domain
+class
+fiction
+nonfiction
+parsing accuracy
+training corpus
+GLOSSER
+foreign language
+language pairs
+GLOSSER
+English-Bulgarian
+English-Estonian
+English-Hungarian
+French-Dutch
+UNIX and Windows '95 platforms
+pilot user-study
+UNIX
+Applied Natural Language Processing
+intelligent computer-assisted morphological analysis (ICALL)
+disambiguated morphological analysis
+lemmatized indexing
+aligned bilingual corpus of word examples
+large repositories
+lexical conceptual structure (LCS) representations
+verbs
+languages
+semantic classes
+LCS meaning components
+acquisition program
+LEXICALL
+verb classification
+thematic grid tagging
+LCS representations
+languages
+representations
+English, Arabic and Spanish lexicons
+verbs
+lexicons
+foreign language tutoring
+machine translation
+morphological component
+NLP-system
+Dutch
+Dutch Medical Language Processor - DMLP
+output
+language independent modules
+LSP-MLP system (Linguistic String Project - Medical Language Processor)
+idiosyncrasies
+Dutch
+information
+patient discharge summary (PDS)
+HyperText Mark-Up Language (HTML) technology
+Named Entity task
+information extraction task
+corpora
+languages
+statistical analysis
+lower bound estimation
+Named Entity corpora
+analysis
+LT NSL system
+architecture
+corpus processing tools
+GATE system
+IMS Corpus Workbench
+SGML approach
+non-SGML database approach
+topics
+texts
+text
+automated training and evaluation
+Optimal Position Policy
+topic-bearing sentences
+genre-specific regularities
+discourse structure
+information retrieval
+routing
+text summarization
+translation lexicon acquisition
+SABLE
+very large corpus
+general translation lexicons
+corpus
+domain-specific translation lexicons
+system for constructing a subcategorization dictionary
+textual corpora
+dictionary entry
+relative frequency of occurrence
+subcategorization classes
+English
+verbs
+complementation patterns
+technique
+accuracy
+subcategorization classes
+subcategorization dictionary
+accuracy
+parser
+Boolean matrix multiplication (BMM)
+CFG parsing
+CFG parsers
+time
+grammar
+string
+Boolean matrices
+time
+formal definition
+parsing
+general CFG parsing
+CFG parser
+BMM algorithm
+finite mixture model
+soft clustering
+words
+statistical hypothesis testing
+finite mixture models
+EM algorithm
+parameters
+finite mixture model
+machine translation systems
+single system evaluations
+commercial systems
+language pair
+comparative evaluation
+black-box method
+lexical coverage
+MT systems
+lists of words
+frequency classes
+word lists
+testing
+MT systems
+English
+German
+names
+technical
+languages
+alphabets
+sound inventories
+items
+phonetic equivalents
+English
+Japanese
+items
+Japanese
+English
+items
+text phrases
+bilingual dictionaries
+backwards transliterations
+generative model
+transliteration process
+syntax
+semantics
+sentence
+Lexicalized Tree Adjoining Grammar (LTAG)
+pragmatic and syntactic constraints
+descriptions
+sentence
+inferential interactions
+descriptions
+sentence
+specifications
+discourse functions
+syntactic constructions
+syntactic choices
+primitive Optimality Theory (OTP)
+OT
+OTP
+autosegmental representations
+universal generator Gen
+permissible constraints
+Generalized Alignment
+OTP's
+surface forms
+finite-state methods
+time
+grammar
+generation problem
+Ellison's approach
+100-fold speedup
+grammar fragment
+factored automata
+regular languages
+formal intersections
+FSAs
+underspecified semantical representation
+sentences
+combinatorial explosion
+semantics
+syntactic readings
+input
+syntactic parse forest
+constraint-based semantic construction rules
+packed semantic structure
+sentence length
+grammar
+'normality' restrictions
+abstract flat syntactic representations
+LFG f-structures
+underspecified semantic representations
+Underspecified Discourse Representation Structures (UDRSs)
+one-to-one correspondence
+subsets
+LFG and UDRS formalisms
+model theoretic interpretation
+inferential component
+underspecified representations
+f-structures
+translation images
+f-structures
+UDRSs
+human language
+syntactic analysis
+semantic interpretation
+context-free complexity
+speech processing
+finite-state models
+grammar
+speech recognition
+processing
+context-free grammars
+contrastive accent
+accentuation patterns
+spoken language generation
+generation
+contrastive accent
+data-to-speech systems
+bridging definite descriptions
+Penn Treebank Corpus
+WordNet
+relations
+bridging descriptions
+antecedents
+co-occurrence frequency
+adjective-noun pair
+noun frequency
+conditional probability
+noun
+adjective
+log-likelihood ratio
+Resnik's (1993) selectional association measure
+co-occurrence frequency
+adjective-noun combinations
+full parsing
+Information Extraction
+texts
+cascades of rules
+text
+chunks
+argumental relations
+modifier attachment
+global parse tree
+languages
+domains
+multilingual text classification
+IE
+automatic abstracting systems
+training resources
+annotation scheme
+resource
+scheme
+rhetorical moves of argumentation
+scheme
+sentences
+chunks
+words
+preprocessing step
+parsing
+information extraction
+information retrieval
+data representation
+chunking
+tagging task
+data representations
+problem of recognizing noun phrase chunks
+data representation choice
+chunking performance
+data representation
+memory-based learning chunker
+chunking results
+standard data set
+Tree Adjoining Grammars
+extended domain of locality (EDOL)
+feature structure unification
+parsing
+wide-coverage lexicalized grammars of English
+LEXSYS
+XTAG
+grammars
+EDOL
+co-occurrence similarities
+terms
+query terms
+retrieval
+query terms
+similarities
+first-order and second-order co-occurrence
+Term similarities
+query terms
+user's information need
+weights
+query terms
+focus
+discourse
+file card model
+discourse model
+knowledge store
+decomposition
+formal representation
+programmable algorithm (FDA)
+social and cognitive psychology
+focus
+FDA
+discourse-level construct
+speech synthesis systems
+concept-to-speech systems
+hierarchical, dynamic topic-based language models
+cluster generation
+hierarchical smoothing
+adaptive topic-probability estimation techniques
+long-distance lexical dependencies
+Broadcast News corpus
+perplexity
+target vocabulary
+dialog management system
+Construct Algebra
+relations
+operations
+task representation
+relations
+operations
+dialog motivators
+dialog manager
+dialog motivators
+Construct Algebra
+statistical model
+Japanese unknown words
+length and spelling models
+character types
+word
+character sets
+character types
+Japanese script
+ideograms
+Chinese
+kanji
+phonograms
+English
+katakana
+word segmentation accuracy
+part of speech tagging accuracy
+model
+model
+tagging accuracy
+unknown words
+formal system
+available readings
+sentences
+quantifier scope ambiguity
+partial scopes
+scope availability
+function-argument structure
+sentence
+deterministic, polynomial time test
+availability of a reading
+well-formedness
+sentences
+meaning language
+hardware designs
+model checking
+circuit specifications
+temporal logic CTL
+Automatic conversion
+English
+CTL
+restricted subset
+English
+semantic expressibility
+CTL
+subsets
+computational semantic analyses
+English
+sentences
+subset
+CTL translation
+Japanese noun phrases
+Japanese postposition no
+usage
+definition
+dictionary
+test noun phrases
+STRAND
+language-independent system for automatic discovery of text in parallel translation
+World Wide Web
+STRAND results
+automatic language identification
+orders of magnitude
+performance
+automatically acquired parallel corpus
+English-French document pairs
+words
+language
+decision-tree approach
+probabilities
+words
+text
+decision-tree language model attempts
+nearly optimal questions
+model
+The Wall Street Journal
+tri-gram model
